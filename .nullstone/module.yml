@@ -1,4 +1,4 @@
-org_name: nullstone
+org_name: Wick
 name: gcp-gke-dedicated-load-balancer
 friendly_name: Dedicated HTTP Load Balancer
 description: Creates a GCP Load Balancer connected to a GKE App

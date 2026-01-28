@@ -5,7 +5,7 @@ on:
       - 'v*'
 
 env:
-  NULLSTONE_ORG: nullstone
+  NULLSTONE_ORG: Wick
   NULLSTONE_API_KEY: ${{ secrets.NULLSTONE_API_KEY }}
 
 jobs:
